@@ -49,26 +49,20 @@ public class ForfattareProgram {
         @Override
         public void actionPerformed(ActionEvent actionEvent) {
             final JFileChooser fc = new JFileChooser(getSaveLocation());
-            fc.setDialogTitle("Directory selection");
-            fc.setFileSelectionMode(JFileChooser.FILES_ONLY);
-            fc.setDialogType(JFileChooser.SAVE_DIALOG);
-
             String txt = textPane1.getText();
 
-            try {
-                Files.write(Paths.get("my-file.txt"), txt.getBytes());
-            } catch (IOException e) {
-                e.printStackTrace();
+            try(FileWriter fw = new FileWriter(fc.getSelectedFile()+".txt")) {
+                fw.write(textPane1.toString());
             }
         }
     }
 
     private File getSaveLocation() {
         JFileChooser fc = new JFileChooser();
-        fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
-        int result = fc.showSaveDialog(null);
+            fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
+            int result = fc.showSaveDialog();
 
-        if (result == fc.APPROVE_OPTION) {
+            if (result == fc.APPROVE_OPTION) {
             return fc.getSelectedFile();
         } else {
             return null;

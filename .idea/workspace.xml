@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8edab097-50fc-4026-b49b-ea4813cc59c6" name="Default Changelist" comment="" />
+    <list default="true" id="8edab097-50fc-4026-b49b-ea4813cc59c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GUI/ForfattareProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForfattareProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForfattareProgram.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YQjQmVoEmSnJqHwJ6wMStPUmYb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.ForfattareProgram">
     <configuration name="ForfattareProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -56,37 +66,64 @@
       <option name="presentableId" value="Default" />
       <updated>1582881698041</updated>
     </task>
+    <task id="LOCAL−00001" summary="Trying to do save function, JFilechooser started using. Trying to make you choose destination for save file">
+      <created>1584093782019</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1584093782019</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Trying to do save function, JFilechooser started using. Trying to make you choose destination for save file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to do save function, JFilechooser started using. Trying to make you choose destination for save file" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1582883829248">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1584091678675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582883829248" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584091678675" />
+    <state x="516" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584098429091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1584098429091" />
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1584093780678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584093780678" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584007368951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584007368951" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1584005274057">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1584098237367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584005274057" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1584005274057">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584098237367" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1584098237367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584005274057" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1584005274057">
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584098237367" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1584098237367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584005274057" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1584005274057">
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584098237367" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1584098237367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584005274057" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584003990384">
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584098237367" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1584035440974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584003990384" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584035440974" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1584093786319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584093786319" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584090307393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584090307393" />
     <state x="555" y="293" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1582883763618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
