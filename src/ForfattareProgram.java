@@ -42,7 +42,7 @@ public class ForfattareProgram {
         JMenu menu;
 
         menuBar = new JMenuBar();
-        menu = new JMenu("Menu");
+        menu = new JMenu("Files");
         save = new JMenuItem("save");
         open = new JMenuItem("open");
 
