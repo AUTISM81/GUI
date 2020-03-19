@@ -6,7 +6,8 @@
       <xy x="20" y="20" width="500" height="400"/>
     </constraints>
     <properties>
-      <preferredSize width="1920" height="1080"/>
+      <autoscrolls value="true"/>
+      <preferredSize width="600" height="800"/>
     </properties>
     <border type="none"/>
     <children>
@@ -36,6 +37,7 @@
         </constraints>
         <properties>
           <background color="-5062729"/>
+          <font name="Georgia" size="12" style="0"/>
           <horizontalScrollBarPolicy value="31"/>
         </properties>
         <border type="none"/>
@@ -44,6 +46,7 @@
             <constraints/>
             <properties>
               <background color="-5062729"/>
+              <font name="Georgia" size="12" style="0"/>
               <preferredSize width="400" height="800"/>
               <requestFocusEnabled value="false"/>
             </properties>
